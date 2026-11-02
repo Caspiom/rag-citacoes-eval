@@ -1,0 +1,18 @@
+{"id": "q01", "q": "Quantos dias de ferias o colaborador tem por ano?", "gold": ["p01"], "tipo": "direta"}
+{"id": "q02", "q": "Em quantos periodos posso dividir as ferias?", "gold": ["p02"], "tipo": "direta"}
+{"id": "q03", "q": "Com quanta antecedencia preciso solicitar as ferias no portal?", "gold": ["p03"], "tipo": "direta"}
+{"id": "q04", "q": "Em quanto tempo recebo o reembolso de uma viagem?", "gold": ["p04"], "tipo": "parafrase"}
+{"id": "q05", "q": "Qual o teto de gasto com comida por dia quando viajo no Brasil?", "gold": ["p05"], "tipo": "parafrase"}
+{"id": "q06", "q": "Com quantos dias de antecedencia devo comprar passagem aerea?", "gold": ["p06"], "tipo": "direta"}
+{"id": "q07", "q": "Qual o tamanho minimo da senha corporativa?", "gold": ["p07"], "tipo": "direta"}
+{"id": "q08", "q": "Preciso de duplo fator para entrar na VPN?", "gold": ["p08"], "tipo": "parafrase"}
+{"id": "q09", "q": "Em quanto tempo devo avisar a seguranca se cair em phishing?", "gold": ["p09"], "tipo": "parafrase"}
+{"id": "q10", "q": "Quantos dias por semana vou ao escritorio no modelo hibrido?", "gold": ["p10"], "tipo": "parafrase"}
+{"id": "q11", "q": "Quanto a empresa paga de ajuda para internet em casa?", "gold": ["p11"], "tipo": "parafrase"}
+{"id": "q12", "q": "Qual o valor diario do vale-refeicao?", "gold": ["p12"], "tipo": "direta"}
+{"id": "q13", "q": "O plano de saude cobre dependentes e qual a coparticipacao?", "gold": ["p13"], "tipo": "direta"}
+{"id": "q14", "q": "Posso aceitar um presente de fornecedor de 300 reais?", "gold": ["p14"], "tipo": "parafrase"}
+{"id": "q15", "q": "O que fazer ao ter conflito de interesse numa decisao?", "gold": ["p15"], "tipo": "direta"}
+{"id": "q16", "q": "Qual a politica de licenca maternidade da empresa?", "gold": [], "tipo": "sem_resposta"}
+{"id": "q17", "q": "Quanto e o bonus anual de desempenho?", "gold": [], "tipo": "sem_resposta"}
+{"id": "q18", "q": "Qual o procedimento para pedir demissao?", "gold": [], "tipo": "sem_resposta"}
